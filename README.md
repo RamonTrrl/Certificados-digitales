@@ -1,6 +1,6 @@
 # Mis certificaciones digitales
 
-En este repositorio guardo los certificados obtenidos en cursos y entrenamientos sobre tecnología, desarrollo y habilidades digitales.
+Este repositorio guardo los certificados obtenidos en cursos y entrenamientos sobre tecnología, desarrollo y habilidades digitales.
 
 ## 📂 Organización
 
@@ -22,9 +22,9 @@ En este repositorio guardo los certificados obtenidos en cursos y entrenamientos
 | Hacking Ético | Udemy | `ciberseguridad` |
 | Java | Udemy | `desarrollo` |
 | Diseño Web Responsivo | VSCODE | `desarrollo` |
-| Marketing Digital | (institución) | `marketing` |
+| Marketing Digital | Digital Ad Certificate | `marketing` |
 | Photoshop | Udemy | `herramientas` |
 | Word | Udemy | `herramientas` |
-| SPSS Bioestadístico | (institución) | `datos` |
+| SPSS  | Bioestadístico | `datos` |
 
 📬 **Contáctame**: [ramontrrl.github.io/portfolio](https://ramontrrl.github.io/portfolio)

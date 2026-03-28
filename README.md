@@ -20,11 +20,11 @@ Este repositorio guardo los certificados obtenidos en cursos y entrenamientos so
 | [Agentes IA](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/cloud/cloudcertificado-agentes-ia-platzi.jpg) | Platzi | `cloud` |
 | [AWS EC2 Observability](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/cloud/certificado-aws-ec2-observability.jpg) | AWS | `cloud` |
 | [AWS Getting Started](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/cloud/certificado-aws-getting-started.jpg) | AWS | `cloud` |
-| [Ethical Hacker](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/ciberseguridad/certificado-hacking-etico-academia-ciberseguridad.png) | Digital Ad Certificate | `ciberseguridad` |
+| [Ethical Hacker](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/ciberseguridad/certificado-hacking-etico-academia-ciberseguridad.png) | Academia de ciberseguridad | `ciberseguridad` |
 | [Hacking Ético](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/ciberseguridad/certificado-hacking-etico-udemy.png) | Udemy | `ciberseguridad` |
 | [Java](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/desarrollo/certificado-java-udemy.png) | Udemy | `desarrollo` |
 | [Diseño Web Responsivo](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/desarrollo/certificado-diseno-web-responsive.png) | VSCODE | `desarrollo` |
-| [Marketing Digital](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-marketing-digital.png) | (institución) | `marketing` |
+| [Marketing Digital](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-marketing-digital.png) | Digital Ad Certificate | `marketing` |
 | [Photoshop](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/herramientas/certificado-photoshop-udemy.png) | Udemy | `herramientas` |
 | [Word](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/herramientas/certificado-word-udemy.png) | Udemy | `herramientas` |
 | [SPSS Bioestadístico](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/datos/certificado-spss-bioestadistico.jpg) | Bioestadístico | `datos` |

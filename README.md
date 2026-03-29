@@ -1,6 +1,6 @@
 # Mis certificaciones en habilidades digitales
 
-Em este repositorio guardo los certificados obtenidos en cursos y entrenamientos sobre tecnología, desarrollo y habilidades digitales, que dan fe y atestiguan que en "veradacito" soy un "nerd cuasi geek" ya que hoy por hoy, la palabra esta muy devaluada, de manera que si no tienes un ***papelito firmado, apostillado y refrendado*** que confirme que lo que dices, es la purita verdad, sin ese papelito, tu verdad solo será tuya y de nadie más 🤓📜!!! 
+En este repositorio guardo los certificados obtenidos en cursos y entrenamientos sobre tecnología, desarrollo y habilidades digitales, que dan fe y atestiguan que en "veradacito" soy un "nerd cuasi geek" ya que hoy por hoy, la palabra esta muy devaluada, de manera que si no tienes un ***papelito firmado, apostillado y refrendado*** que confirme que lo que dices, es la purita verdad, sin ese papelito, tu verdad solo será tuya y de nadie más 🤓📜!!! 
 
 ---
 

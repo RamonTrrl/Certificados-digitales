@@ -28,10 +28,10 @@ Este repositorio guardo los certificados obtenidos en cursos y entrenamientos so
 | [Photoshop](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/herramientas/certificado-photoshop-udemy.png) | Udemy | `herramientas` |
 | [Word](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/herramientas/certificado-word-udemy.png) | Udemy | `herramientas` |
 | [SPSS Bioestadístico](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/datos/certificado-spss-bioestadistico.jpg) | Bioestadístico | `datos` |
-| [Transformación Digital](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-transformacion-digital.png) | (institución) | `marketing` |
-| [SEO Content Marketing](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-seo-content-marketing.png) | (institución) | `marketing` |
-| [Publicidad en Redes Sociales](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-publicidad-redes-sociales.png) | (institución) | `marketing` |
-| [Marketing Storytelling](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-marketing-storytelling.png) | (institución) | `marketing` |
-| [Marketing Automation](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-marketing-automation.png) | (institución) | `marketing` |
+| [Transformación Digital](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-transformacion-digital.png) | Santander | `marketing` |
+| [SEO Content Marketing](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-seo-content-marketing.png) | Santander | `marketing` |
+| [Publicidad en Redes Sociales](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-publicidad-redes-sociales.png) | Santander | `marketing` |
+| [Marketing Storytelling](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-marketing-storytelling.png) | Santander | `marketing` |
+| [Marketing Automation](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-marketing-automation.png) | Santander | `marketing` |
 
 ##📬 **Contáctame**: [ramontrrl.github.io/portfolio](https://ramontrrl.github.io/portfolio)

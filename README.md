@@ -17,7 +17,7 @@ Este repositorio guardo los certificados obtenidos en cursos y entrenamientos so
 
 | Certificado | Institución | Carpeta |
 |-------------|-------------|--------|
-| [Agentes IA](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/cloud/cloudcertificado-agentes-ia-platzi.jpg) | Platzi | `cloud` |
+| [Agentes IA](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/cloud/certificado-agentes-ia-platzi.jpg) | Platzi | `cloud` |
 | [AWS EC2 Observability](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/cloud/certificado-aws-ec2-observability.jpg) | AWS | `cloud` |
 | [AWS Getting Started](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/cloud/certificado-aws-getting-started.jpg) | AWS | `cloud` |
 | [Ethical Hacker](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/ciberseguridad/certificado-hacking-etico-academia-ciberseguridad.png) | Academia de ciberseguridad | `ciberseguridad` |

@@ -29,7 +29,6 @@ Este repositorio guardo los certificados obtenidos en cursos y entrenamientos so
 | [Word](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/herramientas/certificado-word-udemy.png) | Udemy | `herramientas` |
 | [SPSS Bioestadístico](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/datos/certificado-spss-bioestadistico.jpg) | Bioestadístico | `datos` |
 | [Introducción Ciencia de Datos](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/datos/certificado-introduccion-ciencia-datos.png) | Santander | `datos` |
-| [Introducción Ciencia de Datos](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-introduccion-ciencia-datos.png) | Santander | `datos` |
 | [Transformación Digital](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-transformacion-digital.png) | Santander | `marketing` |
 | [SEO Content Marketing](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-seo-content-marketing.png) | Santander | `marketing` |
 | [Publicidad en Redes Sociales](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-publicidad-redes-sociales.png) | Santander | `marketing` |

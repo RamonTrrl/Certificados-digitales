@@ -39,6 +39,6 @@ Este repositorio guardo los certificados obtenidos en cursos y entrenamientos so
 | [Marketing Storytelling](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-marketing-storytelling.png) | Santander | `marketing` |
 | [Marketing Automation](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-marketing-automation.png) | Santander | `marketing` |
 | [Introducción IA Generativa](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/ia/certificado-introduccion-ia.png) | Santander | `ia` |
-| [IoT_](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/iot/certificado-iot.png) | Santander | `iot` |
+| [IoT](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/iot/certificado-iot.png) | Santander | `iot` |
 
 ##📬 **Contáctame**: [ramontrrl.github.io/portfolio](https://ramontrrl.github.io/portfolio)

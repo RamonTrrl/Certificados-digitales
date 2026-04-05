@@ -1,6 +1,6 @@
-# Mis certificaciones en habilidades digitales
+# 🎓 Mis certificaciones en "hierbitas digitales"
 
-En este repositorio guardo los certificados obtenidos en cursos y entrenamientos sobre tecnología, desarrollo y habilidades digitales, que dan fe y atestiguan que en "veradacito" soy un "nerd cuasi geek" ya que hoy por hoy, la palabra esta muy devaluada, de manera que si no tienes un ***papelito firmado, apostillado y refrendado*** que confirme que lo que dices, es la purita verdad, sin ese papelito, tu verdad solo será tuya y de nadie más 🤓📜!!! 
+En este repositorio atesoro los certificados obtenidos en cursos y entrenamientos sobre tecnología, desarrollo y habilidades digitales, que dan fe y atestiguan que en "veradacito" soy un ***"nerd cuasi geek"*** ya que hoy por hoy, la palabra esta muy devaluada, de manera que si no tienes un ***papelito firmado, apostillado y refrendado*** que confirme que lo que dices, es la purita verdad, sin ese papelito, tu verdad solo será tuya y de nadie más 🤓📜!!! 
 
 ---
 
@@ -19,7 +19,7 @@ En este repositorio guardo los certificados obtenidos en cursos y entrenamientos
 
 ---
 
-## 🗂️ Listado de certificados (haz clic para ver en todo su esplendor)
+## 🗂️ Listado de certificados (pincha en cada enlace para ver en todo su esplendor)
 
 | Certificado | Institución | Carpeta |
 |-------------|-------------|--------|
@@ -49,4 +49,4 @@ En este repositorio guardo los certificados obtenidos en cursos y entrenamientos
 
 ---
 
-##📬 **Contáctame** que quizás algún día se me ocurra contestarte: [ramontrrl.github.io/portfolio](https://ramontrrl.github.io/portfolio)
+##📬 **Contáctame** que quizás algún día se me ocurra contestarte: [ramontrrl.github.io/portfolio](https://ramontrrl.github.io/portfolio)... o mejor no, no lo hagas🤣😁!!

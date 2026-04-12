@@ -29,7 +29,8 @@ En este repositorio atesoro los certificados obtenidos en cursos y entrenamiento
 | [CTO Summit](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/cloud/certificado-cto-summit-transforma%C3%A7%C3%A3o-digital.jpg) | AWS | `cloud` |
 | [Ethical Hacker](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/ciberseguridad/certificado-hacking-etico-academia-ciberseguridad.png) | Academia de ciberseguridad | `ciberseguridad` |
 | [Hacking Ético](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/ciberseguridad/certificado-hacking-etico-udemy.png) | Udemy | `ciberseguridad` |
-| [Diseño Web Responsivo](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/desarrollo/certificado-diseno-web-responsive.png) | VSCODE | `desarrollo` |
+| [Diseño Web Responsivo](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/desarrollo/certificado-diseno-web-responsive.png) | FreeCodeCamp | `desarrollo` |
+| [Data Analysis with Python](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/desarrollo/certificado-diseno-web-responsive.png) | FreeCodeCamp | `desarrollo` |
 | [Java](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/desarrollo/certificado-java-udemy.png) | Udemy | `desarrollo` |
 | [Python](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/desarrollo/desarrollo/certificado-python.png) | Santander | `desarrollo` |
 | [Marketing Digital](https://raw.githubusercontent.com/RamonTrrl/Certificados-digitales/main/marketing/certificado-marketing-digital.png) | Digital Ad Certificate | `marketing` |
